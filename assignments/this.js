@@ -5,10 +5,12 @@
  this refers the the scope in which it is placed. Gives
  you flexibily and the ability to have shorter code/.
 * 2. 
-
+Easy access to functions within an object, more flexible code
 * 3. 
+Efficient way to create objects of the same type - alomst like a prototype
 * 4. 
-*
+*Easy way to stretch code - using .call or .apply. allows for easy & smooth transitions
+within the function
 * write out a code example of each explanation above
 */
 
